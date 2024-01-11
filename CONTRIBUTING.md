@@ -8,6 +8,8 @@ you time later on when your code is under review.
 
 ## Contributing 101
 
+## Handling Failed GitHub Actions Runs
+
 All contributions are submitted via pull requests (PRs) open against
 the osquery's [master](https://github.com/osquery/osquery/tree/master)
 branch on GitHub. After being reviewed by the _core team_ and tested
@@ -175,6 +177,8 @@ channels.**
 
 ## Guidelines for contributing features to osquery core
 
+## Troubleshooting GitHub Actions Runs
+
 The software housed in this repo is known as osquery core. While there
 are occasional exceptions, contributions to core should abide by the
 following osquery guiding principles in order to be accepted:
@@ -192,6 +196,8 @@ processes called extensions:
 https://osquery.readthedocs.io/en/stable/development/osquery-sdk/.
 
 ### Does my contribution belong in Core or in an Extension?
+
+## Analyzing Error Logs and Taking Appropriate Actions
 
 Belongs in Core:
 
