@@ -64,7 +64,9 @@ If the failure is due to outdated dependencies, update them to the latest versio
 If the failure is due to outdated dependencies, update them to the latest versions. Check the project's documentation or the dependency's repository for instructions on updating dependencies. After updating, retry the GitHub Actions run.
 
 ### Solution 2: Fixing Code Issues
-If the failure is caused by code issues, review the error logs and identify the specific code causing the problem. Fix the code issues, run tests locally to ensure they pass, and then retry the GitHub Actions run.
+
+#### Solution 2: Fixing Code Issues
+If the failure is caused by code issues, review the error logs and identify the specific code causing the problem. Fix the code issues, run tests locally to ensure they pass, and then retry the GitHub Actions run. Fix the code issues, run tests locally to ensure they pass, and then retry the GitHub Actions run.
 
 ### Solution 3: Adjusting Configuration
 If the failure is related to incorrect configuration, review the configuration files used by the GitHub Actions workflows. Make the necessary adjustments to ensure the configurations match the desired behavior. Retry the GitHub Actions run after making the changes.
