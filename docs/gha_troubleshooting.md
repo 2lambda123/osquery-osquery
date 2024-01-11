@@ -57,6 +57,10 @@ If the issue is not apparent from the error logs, consider using debugging techn
 ## 4. Solutions to Common Errors
 
 ### Solution 1: Updating Dependencies
+
+If the failure is due to outdated dependencies, update them to the latest versions. Check the project's documentation or the dependency's repository for instructions on updating dependencies. After updating, retry the GitHub Actions run.
+
+If the failure is due to outdated dependencies, update them to the latest versions. Check the project's documentation or the dependency's repository for instructions on updating dependencies. After updating, retry the GitHub Actions run.
 If the failure is due to outdated dependencies, update them to the latest versions. Check the project's documentation or the dependency's repository for instructions on updating dependencies. After updating, retry the GitHub Actions run.
 
 ### Solution 2: Fixing Code Issues
